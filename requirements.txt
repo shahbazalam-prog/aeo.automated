@@ -1,5 +1,0 @@
-pypdf
-requests
-beautifulsoup4
-markdownify
-jinja2
