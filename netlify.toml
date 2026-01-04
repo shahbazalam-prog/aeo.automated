@@ -1,6 +1,0 @@
-[build]
-  command = "pip install -r requirements.txt && python pdf_to_aeo.py"
-  publish = "public"
-
-[context.production.environment]
-  PYTHON_VERSION = "3.11"
