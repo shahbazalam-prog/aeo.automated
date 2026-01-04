@@ -1,0 +1,6 @@
+pypdf
+requests
+beautifulsoup4
+markdownify
+jinja2
+python-dotenv
